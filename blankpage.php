@@ -24,13 +24,13 @@
         <?php include 'header.php'; ?>
     </header>
 
-    <main>
+    <main class="blankpage-main">
         <!-- ---blank page start--- -->
         <div class="blank-page d-flex align-items-center justify-content-center h-100">
             <h2 class="fw-bold">BLANK PAGE</h2>
         </div>
 
-        <!-- ---blank page start--- -->
+        <!-- ---blank page end--- -->
     </main>
 
     <!-- ----footer start--- -->
