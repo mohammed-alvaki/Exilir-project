@@ -60,7 +60,7 @@
                                             solving the hardest
                                             problems
                                             they face
-                                            in their businesses—and the world. We do this by channeling the diversity of
+                                            in their businesses—and world. We do this by channeling the diversity of
                                             our
                                             people
                                             and their thinking.</p>
