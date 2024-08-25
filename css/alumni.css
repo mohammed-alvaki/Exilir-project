@@ -1,0 +1,48 @@
+/* ------------------nav bar start------------------- */
+
+@media (max-width:991px) {
+    .dropdown-toggle::after {
+        position: absolute;
+        right: 0px;
+    }
+
+    .offcanvas-header .btn-close {
+        margin-right: 0px !important;
+        font-size: 1.4rem;
+    }
+
+    .offcanvas-body {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .btn-purchase {
+        order: 2;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .navbar-nav {
+        order: 1;
+    }
+}
+
+/* ------------------nav bar end------------------- */
+
+
+
+/* ---if-you-have start--- */
+.if-you-have-alumni {
+    background-color: var(--darkblueColor);
+    padding: 50px 0;
+}
+
+.if-you-have-alumni a {
+    color: var(--darkblueColor);
+    font-weight: bold;
+    padding: 15px 50px;
+    background-color: #EEE;
+    border-radius: 30px;
+}
+
+/* ---if-you-have end--- */

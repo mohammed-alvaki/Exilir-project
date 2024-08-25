@@ -1,0 +1,37 @@
+.empty-page-content {
+    background-image: url('../imgs/empty-page.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+.empty-page-content .background-part {
+    background-color: rgba(93, 102, 137, 0.373);
+    height: 100%;
+
+}
+
+.empty-page-content a {
+    background-color: var(--darkblueColor);
+}
+
+.empty-page-content a {
+    background-color: var(--yellow-button);
+    border-radius: 30px;
+    padding: 15px 80px;
+}
+
+.empty-page-content a:hover {
+    background-color: var(--yellow-hover);
+}
+
+.empty-page-content .logo {
+    margin-bottom: 50px;
+}
+
+.number-404 {
+    font-size: 7rem;
+    letter-spacing: -5px;
+    margin-top: -20px;
+}
