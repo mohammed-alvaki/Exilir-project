@@ -1,7 +1,4 @@
 /* ------------------nav bar start------------------- */
-main {
-    height: 92vh;
-}
 
 .navbar-nav li a {
     color: var(--darkblueColor);
@@ -30,12 +27,6 @@ main {
     transform: none;
     height: fit-content;
     opacity: 0.9;
-}
-
-@media(min-width:576px) {
-    main {
-        height: 84vh;
-    }
 }
 
 @media (max-width:991px) {
@@ -67,10 +58,20 @@ main {
 
 /* ------------------nav bar end------------------- */
 
+.blankpage-main {
+    height: 92vh;
+}
+
 .blank-page h2 {
     font-size: 8rem;
     color: gainsboro;
     letter-spacing: -6px;
+}
+
+@media(min-width:577px) {
+    .blankpage-main {
+        height: 84vh;
+    }
 }
 
 /* ---footer start--- */
